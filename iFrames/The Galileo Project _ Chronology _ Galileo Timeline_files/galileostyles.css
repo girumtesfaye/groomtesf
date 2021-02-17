@@ -1,0 +1,58 @@
+.unav {  
+	font-family: "Times New Roman", Times, serif; 
+	font-size: x-small; 
+	font-style: normal; 
+	font-weight: normal; 
+	color: #8E939F; 
+	text-decoration: none}
+.heading {  
+	font-family: "Times New Roman", Times, serif; 
+	font-size: large; 
+	font-style: normal; 
+	font-weight: bolder; 
+	color: #596889; 
+	text-decoration: none}
+.list {  
+	font-family: "Times New Roman", Times, serif; 
+	font-size: small; 
+	font-style: normal; 
+	font-weight: normal; 
+	color: #626f83; 
+	text-decoration: none}
+.bnav {  font-family: "Times New Roman", Times, serif; font-size: x-small; font-style: normal; font-weight: normal; color: #8E939F; text-decoration: none}
+.corner {  font-family: "Times New Roman", Times, serif; font-size: xx-small; font-style: italic; color: #8E939F; text-decoration: none}
+.main_text {  
+	font-family: "Times New Roman", Times, serif; 
+	font-size: small; 
+	font-style: normal; 
+	color: #596889; 
+	text-decoration: none}
+.sources {  font-family: "Times New Roman", Times, serif; font-size: xx-small; font-style: normal; font-weight: normal; color: #596889; text-decoration: none}
+.caption {  font-family: "Times New Roman", Times, serif; font-size: x-small; font-style: italic; font-weight: lighter; color: #8E939F; text-decoration: none}
+.chrontext {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #596889;
+	font-style: normal;
+}
+.subheading {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #596889;
+}
+.letterdate {
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+	font-style: italic;
+	font-weight: bold;
+}
+a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: small;
+	color: #747584;
+	font-style: normal;
+
+}
